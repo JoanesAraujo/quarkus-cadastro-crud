@@ -1,4 +1,4 @@
-# cad_validation Project
+# crud Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
